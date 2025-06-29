@@ -9,7 +9,7 @@ Aplicação full-stack desenvolvida com **Angular** no front-end e **ASP.NET Cor
 - **Testes**: Jasmine, Karma
 - **Ferramentas**: Visual Studio, VS Code, Swagger, Postman
 
-## O que foi aprendido até agora!
+## O que foi aprendido até agora
 
 - Estrutura e configuração de projetos Angular e ASP.NET Core
 - Criação de componentes via Angular CLI
@@ -30,7 +30,25 @@ Aplicação full-stack desenvolvida com **Angular** no front-end e **ASP.NET Cor
 - [ ] Estratégias avançadas de roteamento
 - [ ] Testes de integração
 
----
+## Telas
+
+### <https://localhost:4200/>
+
+![Home (localhost)](image.png)
+
+### <https://localhost:4200/fetch-data>
+
+![Fetch Data - Buscar dados](image-1.png)
+
+### <https://localhost:40443/swagger/index.html>
+
+![swagger](image-2.png)
+
+### Teste com Jasmine/Karma
+
+> ng test
+
+![Teste com Jasmine/Karma](image-3.png)
 
 ## Observação
 
